@@ -16,4 +16,4 @@ Resulta sorprendente como se pueden utilizar estos datos para reconstruir un map
 # Map #2
 ![Image text](https://github.com/nicoambrosis/Uber-stats-maps/blob/main/UBER_Manhatam_zoom_2.png)
 
-Este proyecto fue realizado a partir de indicaciones de un tutorial de YouTube, pero adicionando ideas y códigos míos. Sinceramente no tengo y no recuerdo a quien corresponde el tutorial sobre el que me basé. Si alguien lee esto y lo sabe, por vafor recuerdemelo!
+Este proyecto fue tomando como base este [tutorial](https://www.youtube.com/watch?v=Q73ADVZCqSU), pero también adicionando ideas y códigos míos.
